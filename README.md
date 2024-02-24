@@ -34,25 +34,25 @@
 * Led a multidisciplinary team to the finals of the competition by implementing Yolov5 on provided datasets, achieving an outstanding test accuracy of 86.96%.
 * Developed innovative image segmentation techniques for anomaly detection, showcasing expertise in computer vision and machine learning.
 * Skills: Deep Learning, Python Programming, Rapid prototyping, Team Management, Resource allocation, SOTA Research.
-* GitHub: (https://github.com/pandaypr/Rohde_und_Schwarz_Competition)
+* [GitHub](https://github.com/pandaypr/Rohde_und_Schwarz_Competition)
 
-###  Aware2All (https://aware2all.eu/about/)
+###  [Aware2All](https://aware2all.eu/about/)
 * Spearheaded pioneering research initiatives in-cabin driver and passenger monitoring systems using RGB and Depth sensors.
 * Implemented state-of-the-art models such as Yolov8 and v7, surpassing performance benchmarks on open-source COCO datasets.
 * Orchestrated dataset recording plans, ensuring comprehensive coverage of boundary conditions and enhancing model robustness.
 * Utilized advanced tools including Kubernetes, ClearML, MLOps, Docker, GIT, Confluence, and Jira to streamline project workflows and collaboration.
 * Skills: Python, SOTA Research, Kubernetes, Docker, MLOPs, ViT.
 
-### Research Project, Institute for Visualization and Interactive Systems, University of Stuttgart
+### [Research Project](https://github.com/pandaypr/HCI-Research-Project), Institute for Visualization and Interactive Systems, University of Stuttgart
 * Developed a conditional GAN-based model for portrait image editing, improving the quality of the edited images by 10% compared to the original paper.
 * Implemented style transfer using gram-matrix loss and component transfer to improve the realism in the generated image.
 
-  ### Research Internship, Institute for Visualization and Interactive Systems, University of Stuttgart
+  ### [Research Internship](https://github.com/pandaypr/Interpretation-of-Activation-Maps-in-Generative-Models), Institute for Visualization and Interactive Systems, University of Stuttgart
 * Trained CNN-based VAE models for generating facial images, achieving a 90% accuracy rate in image recognition tasks.
 * Implemented Grad-CAM and Guided Grad-CAM techniques, improving model interpretability and achieving a 15% increase in object tracking accuracy.
 * Skilled in applying Grad-CAM and Guided Grad-CAM to VAE and U-net models for tasks such as semantic segmentation, and object recognition.
 
-### Video based tracking of manual process at Construction sites
+### [Video based tracking of manual process at Construction sites](https://github.com/pandaypr/oculai_P_Challenge)
 The aim of the project was to track the progress of work at a construction site.
 * Track the progress of concreting, reinforcement, and form-work at a construction site using video data.
 * The code implemented an algorithm to detect and draw bounding boxes over the input video and display the percentage of progress.
