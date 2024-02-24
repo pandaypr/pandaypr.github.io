@@ -1,18 +1,19 @@
 # pandaypr.github.io
 
-### Technical Skills: 
-Python, Pytorch, TensorFlow, Keras, Linear Algebra, Computer Vision, Git, CI/CD, Kubernetes, Docker, MLOPs, ViT, Open3D, Point Cloud Processing, 3D Reconstruction, ML, DL, LLM, Fine Tuning of LLM Stastical Analysis, Image Processing, LiDAR, RADAR, Depth Sensor, ADAS, CARLA, ROS, State Estimation and localization, SQL, Cloud, GCP, AWS.
+### Technical Skills: Python, C++, Pytorch, Sensor Fusion, 3D Mathemtics, Computer Vision.
 
 ## Work Experience
 ### Working Student and Thesis @ Valeo (Jul 2022 - Sept 2023)
 * Engineered an advanced deep learning model for LiDAR point cloud up-sampling, achieving an eightfold increase in point generation and significantly improving resolution.
 * Optimized data management workflows on Google Cloud Platform (GCP), resulting in a 35% reduction in processing time and enhanced operational efficiency.
 * Generated simulated LiDAR point cloud traces using carmaker software, facilitating comprehensive testing and validation processes.
+* Skills: LiDAR, Python, Pytorch, TensorFlow, Keras, ViT, Open3D, Point Cloud Processing, 3D Reconstruction, CARLA, ROS, State Estimation, CarMaker, GCP Cloud. 
 
 ### Working Student @ Robert Bosch (Oct 2021 - April 2022)
 * Contributed to the Engineering System/SW Comfort Functions team within the Honda Lane project for L1 and L2 autonomous driver monitoring.
 * Led the enhancement efforts for the WATSH plugin, which included implementing various features such as lane keeping, lane departure warning, and emergency lane keeping based on road edge detection and oncoming vehicle detection.
 * Played a pivotal role in optimizing the plugin's functionality, resulting in reduction in false positive alerts and enhancing overall driver safety features.
+* Skills: Git, CI/CD, Image Processing, C++.
 
 ### Application Software Developer @ Oracle (Jul 2015 - Sep 2019)
 * Contributed to the build, test, and deployment of a web-based enterprise solution impacting over 100,000 users in 66 countries.
@@ -20,22 +21,26 @@ Python, Pytorch, TensorFlow, Keras, Linear Algebra, Computer Vision, Git, CI/CD,
 * Led test automation efforts for the Fusion T&L software release using Selenium and effective data collection and processing.
 * Achieved a 30% reduction in testing time for Fusion T&L software releases.
 * Demonstrated ability to collaborate within cross-functional teams and deliver impactful solutions.
+* Skills: SQL, BI, Oracle Cloud, Testing.
 
 ### Working Student @ ESG Mobility (Dec 2020 - March 2021)
 * Designed and implemented a customer-side Python-based desktop application for processing and displaying the diagnosis of eSIM inside Porsche Taycan Telecommunication Control Unit (TCU).
 * Facilitated the enhancement of eSIM communication systems in Porsche Taycan vehicles through comprehensive testing and the development of a user-friendly diagnostic tool, ensuring efficient troubleshooting and maintenance.
-* Demonstrated proficiency in software development and quality assurance processes within the automotive industry
+* Demonstrated proficiency in software development and quality assurance processes within the automotive industry.
+* Skills: Python, ADAS, Tkinter, ADB, Low level Serial Communication Protocol.
   
 ## Projects
 ### Rohde & Schwarz Engineering Competition 2022
 * Led a multidisciplinary team to the finals of the competition by implementing Yolov5 on provided datasets, achieving an outstanding test accuracy of 86.96%.
 * Developed innovative image segmentation techniques for anomaly detection, showcasing expertise in computer vision and machine learning.
+* Skills: Deep Learning, Python Programming, Rapid prototyping, Team Management, Resource allocation, SOTA Research.
 
 ###  Aware2All (https://aware2all.eu/about/)
 * Spearheaded pioneering research initiatives in-cabin driver and passenger monitoring systems using RGB and Depth sensors.
 * Implemented state-of-the-art models such as Yolov8 and v7, surpassing performance benchmarks on open-source COCO datasets.
 * Orchestrated dataset recording plans, ensuring comprehensive coverage of boundary conditions and enhancing model robustness.
 * Utilized advanced tools including Kubernetes, ClearML, MLOps, Docker, GIT, Confluence, and Jira to streamline project workflows and collaboration.
+* Skills: Python, SOTA Research, Kubernetes, Docker, MLOPs, ViT.
 
 ### Research Project, Institute for Visualization and Interactive Systems, University of Stuttgart
 * Developed a conditional GAN-based model for portrait image editing, improving the quality of the edited images by 10% compared to the original paper.
