@@ -30,11 +30,10 @@
 * Skills: Python, ADAS, Tkinter, ADB, Low level Serial Communication Protocol.
   
 ## Projects
-### Rohde & Schwarz Engineering Competition 2022
+### [Rohde & Schwarz Engineering Competition 2022](https://github.com/pandaypr/Rohde_und_Schwarz_Competition)
 * Led a multidisciplinary team to the finals of the competition by implementing Yolov5 on provided datasets, achieving an outstanding test accuracy of 86.96%.
 * Developed innovative image segmentation techniques for anomaly detection, showcasing expertise in computer vision and machine learning.
 * Skills: Deep Learning, Python Programming, Rapid prototyping, Team Management, Resource allocation, SOTA Research.
-* [GitHub](https://github.com/pandaypr/Rohde_und_Schwarz_Competition)
 
 ###  [Aware2All](https://aware2all.eu/about/)
 * Spearheaded pioneering research initiatives in-cabin driver and passenger monitoring systems using RGB and Depth sensors.
@@ -57,13 +56,13 @@ The aim of the project was to track the progress of work at a construction site.
 * Track the progress of concreting, reinforcement, and form-work at a construction site using video data.
 * The code implemented an algorithm to detect and draw bounding boxes over the input video and display the percentage of progress.
 
-### Edge Detection for LIDAR Camera
+### [Edge Detection for LIDAR Camera](https://github.com/pandaypr/imageProcessingTask)
 The aim of this project was to build a windows application to detect edges from the incoming images from 2 cameras to interpret the depth of
 the image and measure the CPU cycles and improve it.
 * The final project picked input image files and output another image with the edges details.
 * The project was successfully completed in time and it was built without using OpenCV or any other Impage Processing libraries and all the functions were written from scratch in C++ and Emphasis was given for Code Clarity, Ease of use & Robustness.
 
-### Student HiWi @ DEPARTMENT OF MACHINE LEARNING AND ROBOTICS
+### [Student HiWi](https://github.com/pandaypr/ReinforcementLearning) @ DEPARTMENT OF MACHINE LEARNING AND ROBOTICS
 * Implemented algorithms like Q-Learning, Deep Q-Learning, Lambda-Q, Monte-Carlo and Markov models.
 
 ### Edge Applications with ESP32 - Academic Project
