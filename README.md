@@ -75,7 +75,7 @@ the image and measure the CPU cycles and improve it.
 * Analyzed time series data of a room heater to predict room occupancy, enhancing skills in data analysis and modeling.
 * Utilized Infineon depth sensor camera to generate 3D point cloud from raw data, demonstrating proficiency in advanced technologies.
 * Secured 1st place in the hackathon by demonstrating excellence in problem-solving, data analysis, and utilization of advanced technologies.
-* 
+
 ## Education
 - M.Sc., Electrical Engineering | University of Stuttgart
 - B.E., Electrical Engineering | VTU
