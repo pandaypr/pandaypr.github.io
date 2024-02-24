@@ -34,6 +34,7 @@
 * Led a multidisciplinary team to the finals of the competition by implementing Yolov5 on provided datasets, achieving an outstanding test accuracy of 86.96%.
 * Developed innovative image segmentation techniques for anomaly detection, showcasing expertise in computer vision and machine learning.
 * Skills: Deep Learning, Python Programming, Rapid prototyping, Team Management, Resource allocation, SOTA Research.
+* GitHub: (https://github.com/pandaypr/Rohde_und_Schwarz_Competition)
 
 ###  Aware2All (https://aware2all.eu/about/)
 * Spearheaded pioneering research initiatives in-cabin driver and passenger monitoring systems using RGB and Depth sensors.
