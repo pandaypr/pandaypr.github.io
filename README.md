@@ -3,7 +3,7 @@
 ### Technical Skills: Python, C++, Pytorch, Sensor Fusion, 3D Mathemtics, Computer Vision.
 
 ## Work Experience
-### Working Student and Thesis @ Valeo (Jul 2022 - Sept 2023)
+### Working Student and [Thesis](src/Smaple_work.pdf) @ Valeo (Jul 2022 - Sept 2023)
 * Engineered an advanced deep learning model for LiDAR point cloud up-sampling, achieving an eightfold increase in point generation and significantly improving resolution.
 * Optimized data management workflows on Google Cloud Platform (GCP), resulting in a 35% reduction in processing time and enhanced operational efficiency.
 * Generated simulated LiDAR point cloud traces using carmaker software, facilitating comprehensive testing and validation processes.
