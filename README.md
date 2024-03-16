@@ -7,7 +7,7 @@
 * Engineered an advanced deep learning model for LiDAR point cloud up-sampling, achieving an eightfold increase in point generation and significantly improving resolution.
 * Optimized data management workflows on Google Cloud Platform (GCP), resulting in a 35% reduction in processing time and enhanced operational efficiency.
 * Generated simulated LiDAR point cloud traces using carmaker software, facilitating comprehensive testing and validation processes.
-* Skills: LiDAR, Python, Pytorch, TensorFlow, Keras, ViT, Open3D, Point Cloud Processing, 3D Reconstruction, CARLA, ROS, State Estimation, CarMaker, GCP Cloud. 
+* Skills: LiDAR, Python, Pytorch, TensorFlow, Keras, ViT, GANs, CNN, Open3D, Point Cloud Processing, 3D Reconstruction, CARLA, ROS, State Estimation, CarMaker, GCP Cloud. 
 
 ### Working Student @ Robert Bosch (Oct 2021 - April 2022)
 * Contributed to the Engineering System/SW Comfort Functions team within the Honda Lane project for L1 and L2 autonomous driver monitoring.
