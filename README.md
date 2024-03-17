@@ -1,5 +1,3 @@
-# pandaypr.github.io
-
 ### Technical Skills: Python, C++, Pytorch, Sensor Fusion, 3D Mathemtics, Computer Vision.
 
 ## Work Experience
