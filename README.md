@@ -1,6 +1,12 @@
-### Technical Skills: Python, C++, Pytorch, Sensor Fusion, 3D Mathemtics, Computer Vision.
+### Technical Skills: Python, C++, Pytorch, TF, Keras, Sensor Fusion, 3D Mathemtics, Computer Vision, GANs, CNN, ML, DL.
 
 ## Work Experience
+### Freelancing (Dec 2023 - Present)
+* Conducted research on 3D human body modeling using cell phone images.
+* Currently researching the use of Intel RealSense depth sensors for estimating the age of vehicle tires.
+* Developed algorithms for 3D reconstruction and depth estimation.
+* Skills: Intel Realsense Depth Sensror, Python, Open3D, Point Cloud Processing, 3D Geometry.
+
 ### Working Student and [Thesis](src/Smaple_work.pdf) @ Valeo (Jul 2022 - Sept 2023)
 * Engineered an advanced deep learning model for LiDAR point cloud up-sampling, achieving an eightfold increase in point generation and significantly improving resolution.
 * Optimized data management workflows on Google Cloud Platform (GCP), resulting in a 35% reduction in processing time and enhanced operational efficiency.
@@ -33,7 +39,7 @@
 * Developed innovative image segmentation techniques for anomaly detection, showcasing expertise in computer vision and machine learning.
 * Skills: Deep Learning, Python Programming, Rapid prototyping, Team Management, Resource allocation, SOTA Research.
 
-###  [Aware2All](https://aware2all.eu/about/)
+###  [Aware2All](https://aware2all.eu/about/) ([Letter of Reference](src/Ref_Gestigon.pdf))
 * Spearheaded pioneering research initiatives in-cabin driver and passenger monitoring systems using RGB and Depth sensors.
 * Implemented state-of-the-art models such as Yolov8 and v7, surpassing performance benchmarks on open-source COCO datasets.
 * Orchestrated dataset recording plans, ensuring comprehensive coverage of boundary conditions and enhancing model robustness.
@@ -75,8 +81,11 @@ the image and measure the CPU cycles and improve it.
 * Secured 1st place in the hackathon by demonstrating excellence in problem-solving, data analysis, and utilization of advanced technologies.
 
 ## Education
-- M.Sc., Electrical Engineering | University of Stuttgart
-- B.E., Electrical Engineering | VTU
+* [M.Sc.](src/MS_Panday_Transcripts.pdf) in Electrical Engineering at University of Stuttgart (2020-2023)
+* Master’s Thesis: [“Point Cloud Up-Sampling and Domain Adaptation”](src/Sample_work.pdf) at Valeo Detection Systems
+* Backend Developer at Oracle Inc, India (2015-2019)
+* [BE](src/BETranscript.pdf) in Electrical and Electronics Engineering, VTU, India (2011-2015) ([Recommendation 1](LOR_Nagesh_Prabhu_Sir.pdf)) ([Recommendation 2](LOR_Suryanarayana_Sir.pdf)) ([Appreciation](Talk_appreciation.pdf))
+* Bachelor's Thesis: ["Multicolor RGB LED Display Board"](Multicolor_LED_board.pdf)
 
 ## Hobbies
 ### Nextcloud Home Server 
