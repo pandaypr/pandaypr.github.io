@@ -1,5 +1,5 @@
 ### Technical Skills: Python, C++, Pytorch, TF, Keras, Sensor Fusion, 3D Mathemtics, Computer Vision, GANs, CNN, ML, DL.
-
+## [CV](Prabhakar_Panday.pdf)
 ## Work Experience
 ### Freelancing (Dec 2023 - Present)
 * Conducted research on 3D human body modeling using cell phone images.
