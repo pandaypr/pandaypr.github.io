@@ -1,4 +1,4 @@
-### Technical Skills: Python, C++, Pytorch, TF, Keras, Sensor Fusion, 3D Mathemtics, Computer Vision, GANs, CNN, ML, DL.
+### Skills: Project Management, Python, C++, Pytorch, TF, Keras, Sensor Fusion, 3D Mathemtics, Computer Vision, GANs, CNN, ML, DL.
 ## [CV](Prabhakar_Panday.pdf)
 
 ## Education
