@@ -11,9 +11,10 @@
 
 ## Work Experience
 ### Freelancing (Dec 2023 - Present)
-* Conducted research on 3D human body modeling using cell phone images.
-* Currently researching the use of Intel RealSense depth sensors for estimating the age of vehicle tires.
-* Developed algorithms for 3D reconstruction and depth estimation.
+* Leading a research initiative with a team of 3 engineering interns on predicting the quality of the used vehicle tires.
+* Developed algorithms for 3D reconstruction and tire profile estimation, contributing to the overall team effort.
+* Built a CNN-based OCR detector, involving a conveyor belt for capturing tire images, collecting and labeling images, training and testing the model for high accuracy.
+* Developed and deployed a web application using Flask, hosted on Google Cloud Platform (GCP), to facilitate easy access and utilization of the OCRmodel.
 * Skills: Intel Realsense Depth Sensror, Python, Open3D, Point Cloud Processing, 3D Geometry.
 
 ### Working Student and [Thesis](src/Smaple_work.pdf) @ Valeo (Jul 2022 - Sept 2023)
