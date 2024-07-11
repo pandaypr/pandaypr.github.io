@@ -60,7 +60,7 @@
 * Developed a conditional GAN-based model for portrait image editing, improving the quality of the edited images by 10% compared to the original paper.
 * Implemented style transfer using gram-matrix loss and component transfer to improve the realism in the generated image.
 
-  ### [Research Internship](https://github.com/pandaypr/Interpretation-of-Activation-Maps-in-Generative-Models), Institute for Visualization and Interactive Systems, University of Stuttgart
+### [Research Internship](https://github.com/pandaypr/Interpretation-of-Activation-Maps-in-Generative-Models), Institute for Visualization and Interactive Systems, University of Stuttgart
 * Trained CNN-based VAE models for generating facial images, achieving a 90% accuracy rate in image recognition tasks.
 * Implemented Grad-CAM and Guided Grad-CAM techniques, improving model interpretability and achieving a 15% increase in object tracking accuracy.
 * Skilled in applying Grad-CAM and Guided Grad-CAM to VAE and U-net models for tasks such as semantic segmentation, and object recognition.
@@ -83,6 +83,7 @@ the image and measure the CPU cycles and improve it.
 * Successfully programmed ESP32 using ESP IDF with python and download a pre-trained model to detect single words using TensorFlow Lite.
 *  Successfully Programmed ESP32 to work as a Smart socket using MQTT-Mosquito broker running on Amazon Ec2 Instance.
 *  Programming Languages and tools: Python, TensorFlow Lite, Linux, PCB designing, TCP/IP Protocol, and ESP-IDF
+*  Skills: ARM, DSP Programming, Assembly, Embedded C. Communication protocols: UART, SPI, I2C, CAN, MQTT. PLC Programming.
 
 ### Hackathon 
 * Led winning teams in consecutive hackathons, showcasing problem-solving prowess and leadership skills.
