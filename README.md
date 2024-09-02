@@ -5,7 +5,7 @@
 * [M.Sc.](src/MS_Panday_Transcripts.pdf) in Electrical Engineering at University of Stuttgart (2020-2023)
 * Master’s Thesis: [“Point Cloud Up-Sampling and Domain Adaptation”](src/Smaple_work.pdf) at Valeo Detection Systems
 * Backend Developer at Oracle Inc, India (2015-2019)
-* [BE](src/BETranscript.pdf) in Electrical and Electronics Engineering, VTU, India (2011-2015) ([Recommendation 1](LOR_Nagesh_Prabhu_Sir.pdf)) ([Recommendation 2](LOR_Suryanarayana_Sir.pdf)) ([Appreciation](Talk_appreciation.pdf))
+* [BE](src/BETranscript.pdf) in Electrical and Electronics Engineering, VTU, India (2011-2015) ([Letter of Reference](src/Ref_Gestigon.pdf))([Recommendation 1](LOR_Nagesh_Prabhu_Sir.pdf)) ([Recommendation 2](LOR_Suryanarayana_Sir.pdf)) ([Appreciation](Talk_appreciation.pdf))
 * Bachelor's Thesis: ["Multicolor RGB LED Display Board"](Multicolor_LED_board.pdf)
 
 
