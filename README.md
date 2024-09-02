@@ -10,7 +10,7 @@
 
 
 ## Work Experience
-### Freelancing (Dec 2023 - Present)
+### Startup: ML Engineer (Dec 2023 - Present)
 * Leading a research initiative with a team of 3 engineering interns on predicting the quality of the used vehicle tires.
 * Developed algorithms for 3D reconstruction and tire profile estimation, contributing to the overall team effort.
 * Built a CNN-based OCR detector, involving a conveyor belt for capturing tire images, collecting and labeling images, training and testing the model for high accuracy.
